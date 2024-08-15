@@ -13,3 +13,4 @@ circle_area_default = make_circle_area_func()
 # pi が　3.1415926535のとき
 circle_area_precise = make_circle_area_func(pi = 3.1415926535)
 
+print(make_circle_area_func)
